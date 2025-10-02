@@ -1,9 +1,10 @@
 # Proyecto Cine-Maxi
 
-cd Cine-Maxi
-git add assets/logo.png
-git commit -m "Agregado logo Cine-Maxi"
-git push origin main
+
+<p align="center">
+  ./assets/logo-cinemaxi.png
+</p>
+
 
 ## 1. Integrantes
 | Nombre | Rol | Descripción |
