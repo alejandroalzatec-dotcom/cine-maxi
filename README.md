@@ -1,5 +1,9 @@
 # Proyecto Cine-Maxi
 
+### Logo (cinemaxi)
+<p align="center">
+  <img src="./logo.png" alt="Diagrama de Gantt" width="600">
+</p>
 
 
 
@@ -73,10 +77,6 @@ Cine-Maxi busca ofrecer una solución digital para la gestión del cine universi
 - Pruebas y validaciones
 - Documentación
 
-### Cronograma (Diagrama de Gantt)
-<p align="center">
-  <img src="./logo.png" alt="Diagrama de Gantt" width="600">
-</p>
 
 ### Presupuesto
 | Concepto | Horas | Valor |
