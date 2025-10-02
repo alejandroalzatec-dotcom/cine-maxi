@@ -1,7 +1,7 @@
 # Proyecto Cine-Maxi
 
 
-<p align="center">
+<palign="center">
   ./assets/logo.png
 </p>
 
