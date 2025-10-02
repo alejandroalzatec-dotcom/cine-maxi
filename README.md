@@ -1,6 +1,6 @@
 # Proyecto Cine-Maxi
 
-!Logo Cine-Maxi
+logo.png
 
 
 ## 1. Integrantes
