@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  ./assets/logo-cinemaxi.png
+  ./assets/logo.png
 </p>
 
 
