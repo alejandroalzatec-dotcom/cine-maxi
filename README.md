@@ -1,7 +1,7 @@
 # Proyecto Cine-Maxi
 
 cd Cine-Maxi
-git add assets/logo-cinemaxi.png
+git add assets/logo.png
 git commit -m "Agregado logo Cine-Maxi"
 git push origin main
 
