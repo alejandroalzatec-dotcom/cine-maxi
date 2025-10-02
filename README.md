@@ -1,7 +1,7 @@
 # Proyecto Cine-Maxi
 
 <p align="center">
-  <img src="./assets/logo-cinemaxi.png" alt="Logo Cine-Maxi" width="300">
+  <img src="./assets/logo.png" alt="Logo Cine-Maxi" width="300">
 </p>
 
 ## 1. Integrantes
