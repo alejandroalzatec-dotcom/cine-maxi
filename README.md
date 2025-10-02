@@ -75,7 +75,7 @@ Cine-Maxi busca ofrecer una solución digital para la gestión del cine universi
 
 ### Cronograma (Diagrama de Gantt)
 <p align="center">
-  <img src="./assets/diagrama-gantt.png" alt="Diagrama de Gantt" width="600">
+  <img src="./logo.png" alt="Diagrama de Gantt" width="600">
 </p>
 
 ### Presupuesto
