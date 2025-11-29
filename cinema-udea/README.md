@@ -52,22 +52,9 @@ Código fuente dentro de `src/`:
 Consulta `doc/manual_usuario.md`.
 
 
----
-
-### ▶️ Cómo ejecutar
-**Opción A – Google Colab**
-1. Abre Google Colab.
-2. Subir `src/Cinema_UdeA.ipynb`.
-3. Ejecuta todas las celdas y usa el menú en consola.
-
-**Opción B – Local (Python 3.10+)**
-```bash
-python src/cinema_udea.py
-```
-
 ### Exportación CSV
 El sistema genera `datos/usuarios.csv`, `datos/reservas.csv`, `datos/ventas.csv`.
 
-### Credenciales Admin (por defecto)
+### Credenciales Admin
 Usuario: `admin` • Clave: `admin123` (modifica en `cinema_udea.py`).
 
