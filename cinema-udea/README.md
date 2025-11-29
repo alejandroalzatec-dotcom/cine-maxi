@@ -1,7 +1,7 @@
 
 # 🎬 Cinema Universitario (Nombre)
 
-![logo](assets/)
+![logo](assets/logo.png)
 
 Sistema de consola en **Python** para gestionar el **Cinema Universitario**: registro de usuarios, reservas/cancelaciones (visualización de asientos **O/X**), impresión de **facturas**, consulta de **funciones del fin de semana**, **módulo administrador** con reportes y **exportación a CSV**.
 
