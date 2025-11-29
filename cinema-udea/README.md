@@ -6,15 +6,13 @@
 Sistema de consola en **Python** para gestionar el **Cinema Universitario**: registro de usuarios, reservas/cancelaciones (visualización de asientos **O/X**), impresión de **facturas**, consulta de **funciones del fin de semana**, **módulo administrador** con reportes y **exportación a CSV**.
 
 ## 1. Integrantes
-- (Nombre 1) – Programa: (Programa), habilidades: (…)
-- (Nombre 2) – Programa: (Programa), habilidades: (…)
-- (Nombre 3) – Programa: (Programa), habilidades: (…)
+- (Alejandro alzate cadavid) – Programa: (ingenieria industrial), habilidades: (…)
 
 ## 2. Vínculos académicos y descripción
 Describe aquí para cada integrante el programa al cual pertenece y sus fortalezas.
 
 ## 3. Nombre del proyecto y detalles
-**Nombre sugerido:** *Cinema UdeA – Caldas* (puedes cambiarlo). Breve descripción del proyecto y objetivo.
+*Cine-maxi* . Breve descripción del proyecto y objetivo.
 
 ## 4. Licencia del software
 Este repositorio usa **MIT License** por ser software; si tu docente requiere **Creative Commons** (indicado en el enunciado), documenta la elección en `doc/licencia.md`.
