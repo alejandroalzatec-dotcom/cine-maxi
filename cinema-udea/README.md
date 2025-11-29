@@ -1,7 +1,7 @@
 
 # 🎬 Cinema Universitario (Nombre)
 
-![logo](assets/logo.png)
+![logo](assets/)
 
 Sistema de consola en **Python** para gestionar el **Cinema Universitario**: registro de usuarios, reservas/cancelaciones (visualización de asientos **O/X**), impresión de **facturas**, consulta de **funciones del fin de semana**, **módulo administrador** con reportes y **exportación a CSV**.
 
@@ -53,15 +53,6 @@ Código fuente dentro de `src/`:
 ## 10. Manual de usuario
 Consulta `doc/manual_usuario.md`.
 
-## 11. GitHub
-Sube este repositorio con credenciales **UdeA** y vincula a tus compañeros como colaboradores.
-
-## 12. Sustentaciones
-Semanas 15–16: todo el equipo debe tener el software **disponible y ejecutable**.
-
-## 13. Fechas y Documentos
-- **Entrega 1**: puntos 1 a 7 (Semana 8)
-- **Entrega 2**: todo lo descrito (Semana 16)
 
 ---
 
