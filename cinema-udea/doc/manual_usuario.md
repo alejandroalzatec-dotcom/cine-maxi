@@ -5,7 +5,6 @@
 Este manual describe cómo usar el sistema del **Cinema Universitario** desde Google Colab o localmente.
 
 ## Requisitos
-- Python 3.10+ (para ejecución local).
 - Google Colab (para ejecución en la nube).
 
 ## Flujo de uso
