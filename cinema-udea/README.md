@@ -26,7 +26,9 @@ Creatividad en la solución de problemas
 Compromiso y responsabilidad
 
 ## 3. Nombre del proyecto y detalles
-*Cine-maxi* . Breve descripción del proyecto y objetivo.
+Nombre del proyecto: Cine-Maxi
+Descripción breve:
+Cine-Maxi es una aplicación para gestionar el servicio de cine universitario en la Universidad de Antioquia, permitiendo registro de usuarios, reservas, administración de ingresos y generación de reportes.
 
 ## 4. Licencia del software
 Este repositorio usa **MIT License** por ser software; si tu docente requiere **Creative Commons** (indicado en el enunciado), documenta la elección en `doc/licencia.md`.
