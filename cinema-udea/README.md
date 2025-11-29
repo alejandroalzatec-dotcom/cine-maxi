@@ -1,5 +1,5 @@
 
-# 🎬 Cinema Universitario (Nombre)
+# 🎬 Cinema Universitario (cine-maxi)
 
 ![logo](assets/logo.png)
 
