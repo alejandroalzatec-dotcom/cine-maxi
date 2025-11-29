@@ -9,7 +9,21 @@ Sistema de consola en **Python** para gestionar el **Cinema Universitario**: reg
 - (Alejandro alzate cadavid) – Programa: (ingenieria industrial), habilidades:Encargado de la gestión del repositorio y coordinación del equipo (…)
 
 ## 2. Vínculos académicos y descripción
-Describe aquí para cada integrante el programa al cual pertenece y sus fortalezas.
+Este proyecto pertenece al curso Algoritmia y Programación.
+
+Habilidades del grupo
+Lógica y razonamiento algorítmico
+Programación estructurada
+Manejo de estructuras de datos
+Resolución de problemas
+Depuración y pruebas
+Trabajo colaborativo con Git/GitHub
+Fortalezas del grupo
+Adaptabilidad
+Comunicación efectiva
+Organización y planificación
+Creatividad en la solución de problemas
+Compromiso y responsabilidad
 
 ## 3. Nombre del proyecto y detalles
 *Cine-maxi* . Breve descripción del proyecto y objetivo.
