@@ -6,7 +6,7 @@
 Sistema de consola en **Python** para gestionar el **Cinema Universitario**: registro de usuarios, reservas/cancelaciones (visualización de asientos **O/X**), impresión de **facturas**, consulta de **funciones del fin de semana**, **módulo administrador** con reportes y **exportación a CSV**.
 
 ## 1. Integrantes
-- (Alejandro alzate cadavid) – Programa: (ingenieria industrial), habilidades: (…)
+- (Alejandro alzate cadavid) – Programa: (ingenieria industrial), habilidades:Encargado de la gestión del repositorio y coordinación del equipo (…)
 
 ## 2. Vínculos académicos y descripción
 Describe aquí para cada integrante el programa al cual pertenece y sus fortalezas.
